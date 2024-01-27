@@ -1,5 +1,7 @@
 # MongoDB Basics
 
+https://learning-zone.github.io/mongodb-basics/
+
 > *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
 
 <br/>
